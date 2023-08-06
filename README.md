@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on projects
 - 📫 You can reach me on manuelfranky0@gmail.com
-- I am open for junior role
 - I'm open to learning and critics
 
 <!---
